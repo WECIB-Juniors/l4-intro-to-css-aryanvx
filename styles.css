@@ -4,11 +4,15 @@
 /* This ruleset defines the styling for the entire body of your HTML document. */
 body {
     /* Change this background-color. */
-    background-color: white;
+    background-color: lightsteelblue;
+}
+
+h1 {
+    color: #02006c;
+}
+
+h2 {
+    color: #400000;
 }
 
 /* This defines styling for all your p elements */
-
-p {
-
-}
