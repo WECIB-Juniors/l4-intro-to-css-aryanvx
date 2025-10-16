@@ -1,18 +1,59 @@
 /* This is your CSS file */
 /* Comments look like this. */
 
-/* This ruleset defines the styling for the entire body of your HTML document. */
 body {
-    /* Change this background-color. */
     background-color: lightsteelblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222222;
 }
 
 h1 {
     color: #02006c;
+    font-size: 32px;
 }
 
 h2 {
     color: #400000;
+    font-size: 24px;
 }
 
-/* This defines styling for all your p elements */
+header {
+    background-color: #273c75;
+    font-size: 16px;
+}
+
+h4 {
+    color: #f5f6fa;
+    font-size: 19px;
+}
+
+ol {
+    background-color: #e1eafc;
+    font-size: 16px;
+}
+
+ul {
+    background-color: #fafafa;
+    font-size: 16px;
+}
+
+li {
+    color: #222222;
+    font-size: 16px;
+}
+
+a {
+    color: #2176ff;
+    font-size: 16px;
+}
+
+button {
+    width: 240px;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #273c75;
+    color: #fafafa;
+    font-size: 16px;
+}
